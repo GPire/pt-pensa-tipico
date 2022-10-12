@@ -1,0 +1,218 @@
+$font-family-base: "Arial";
+
+$primary: rgb(255, 255, 255);
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+@import "swiper/css";
+@import "swiper/css/navigation";
+
+@import "header";
+
+$main-bg: rgb(216, 215, 215); // variabile
+
+.container-fluid {
+  padding: 0px;
+}
+body {
+  background-color: $main-bg;
+  font-style: inherit;
+  font-weight: 900;
+  font-family: emoji;
+
+  //   .bottone {
+  //     background-color: darken($main-bg, 20); //lighten --> per farla più chiara rispetto al colore della var che gli passo
+  //   }
+}
+
+// .swiper {
+//   width: 100%;
+//   height: 100%;
+// }
+
+.header {
+  background-color: #000;
+}
+
+.barnav {
+  text-align: center;
+  height: 70px;
+}
+.menuicon {
+}
+
+.form-control {
+  border: none;
+  background-color: #000;
+}
+.form-control:focus,
+.form-control:focus-visible,
+.form-control:hover {
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-bottom: 2px solid #754d00;
+}
+
+.title-description {
+  color: #754d00;
+}
+.row {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  display: flex;
+  margin-top: calc(-1 * var(--bs-gutter-y));
+  margin-right: calc(-0.5 * var(--bs-gutter-x));
+  margin-left: calc(-0.5 * var(--bs-gutter-x));
+  align-items: center;
+  justify-content: space-around;
+}
+.row > .secondDescription {
+  text-align: center;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.test {
+  background-color: #131313;
+}
+
+.main-picture {
+  background-image: url("../Photos/main-picture.jpeg");
+  // min-height: 330px;
+  background-repeat: no-repeat;
+  // background-attachment: inherit;
+  background-position: center;
+  width: 1920px;
+  display: flex;
+  height: 1002px;
+  flex-direction: row;
+}
+
+.title-description {
+  color: #754d00;
+  font-family: monospace;
+  font-size: 2.2rem;
+}
+
+.description {
+  font-family: cursive;
+  font-size: 1.6rem;
+}
+
+.centralbox {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text-aligncenter {
+  color: #fff;
+  text-align: center;
+}
+
+.cannolosiciliano-picture {
+  background-image: url(../Photos/cannolo-siciliano.png);
+}
+
+.granapadano-picture {
+  background-image: url(../Photos/grana-padano.png);
+  background-color: #000;
+}
+
+.prosciutto-sandan-picture {
+  background-image: url(../Photos/prosciutto-sandaniele.png);
+  background-color: #000;
+}
+
+.seadas-picture {
+  background-image: url(../Photos/seadas.jpg);
+}
+.cannolosiciliano-picture,
+.granapadano-picture,
+.prosciutto-sandan-picture,
+.seadas-picture {
+  min-height: 160px;
+  background-size: 130px 100px;
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-position: center;
+  background-color: #d6cece;
+  margin-top: 18px;
+  border-radius: 14%;
+}
+
+.title-cannolo,
+.title-granapadano,
+.title-sandan,
+.title-seadas {
+  text-align: center;
+}
+
+.footercontainer {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: flex-start;
+  background-color: #000;
+  color: #fff;
+}
+
+.footercontainer > .footerlayout {
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+.secure-packaging-icon {
+  background-image: url(../Photos/secure-packaging.svg);
+}
+.custom-suggest-icon {
+  background-image: url(../Photos/custom-suggest.svg);
+}
+.payment-icon {
+  background-image: url(../Photos/secure-payment.svg);
+}
+.guaranteeOrigin-icon {
+  background-image: url(../Photos/origin-guarantee.svg);
+}
+.footerCountry-icon {
+  background-image: url(../Photos/ita-country.png);
+}
+
+.secure-packaging-icon,
+.custom-suggest-icon,
+.payment-icon,
+.guaranteeOrigin-icon,
+.footerCountry-icon {
+  min-height: 70px;
+  background-size: 43px 40px;
+  background-repeat: no-repeat;
+  background-attachment: inherit;
+  background-position: center;
+}

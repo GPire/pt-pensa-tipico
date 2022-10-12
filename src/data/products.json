@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name": "Focaccia",
+        "brand": "Antico forno a Genovese",
+        "type": "Focaccia",
+        "category": "Pane",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id felis scelerisque, aliquet est vel, viverra mi. Sed pretium felis purus. Nunc id dignissim lorem, et bibendum augue. Aenean euismod mauris a nunc interdum feugiat. Donec tristique turpis mollis varius iaculis. Quisque a est lobortis, semper magna sed, ultricies elit. Quisque eu erat tempor, iaculis urna nec, bibendum sem. Duis consequat, nulla sed feugiat pellentesque, lorem arcu varius massa, ac sagittis velit nunc et augue. Aliquam vitae semper sem, ut aliquam enim. Duis vel tincidunt lacus. Maecenas lobortis ultrices posuere. Aliquam ac purus et neque posuere lobortis vitae in neque.",
+        "um": "Kg",
+        "price": 18,
+        "region": "Liguria",
+        "isNew": true,
+        "isLoved": true
+    },
+    {
+        "id": 2,
+        "name": "Turriga",
+        "brand": "Argiolas",
+        "type": "Vino rosso",
+        "category": "Vino",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id felis scelerisque, aliquet est vel, viverra mi. Sed pretium felis purus. Nunc id dignissim lorem, et bibendum augue. Aenean euismod mauris a nunc interdum feugiat. Donec tristique turpis mollis varius iaculis. Quisque a est lobortis, semper magna sed, ultricies elit. Quisque eu erat tempor, iaculis urna nec, bibendum sem. Duis consequat, nulla sed feugiat pellentesque, lorem arcu varius massa, ac sagittis velit nunc et augue. Aliquam vitae semper sem, ut aliquam enim. Duis vel tincidunt lacus. Maecenas lobortis ultrices posuere. Aliquam ac purus et neque posuere lobortis vitae in neque.",
+        "um": "Pz",
+        "price": 26,
+        "region": "Sardegna",
+        "isNew": false,
+        "isLoved": true
+    },
+    {
+        "id": 3,
+        "name": "Akenta Sub",
+        "brand": "Società 1",
+        "type": "Vino rosso",
+        "category": "Vino",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id felis scelerisque, aliquet est vel, viverra mi. Sed pretium felis purus. Nunc id dignissim lorem, et bibendum augue. Aenean euismod mauris a nunc interdum feugiat. Donec tristique turpis mollis varius iaculis. Quisque a est lobortis, semper magna sed, ultricies elit. Quisque eu erat tempor, iaculis urna nec, bibendum sem. Duis consequat, nulla sed feugiat pellentesque, lorem arcu varius massa, ac sagittis velit nunc et augue. Aliquam vitae semper sem, ut aliquam enim. Duis vel tincidunt lacus. Maecenas lobortis ultrices posuere. Aliquam ac purus et neque posuere lobortis vitae in neque.",
+        "um": "Pz",
+        "price": 18,
+        "region": "Sardegna",
+        "isNew": true,
+        "isLoved": true
+    },
+    {
+        "id": 4,
+        "name": "Castelmagno",
+        "brand": "Società 2",
+        "type": "Formaggio fresco",
+        "category": "Formaggi",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id felis scelerisque, aliquet est vel, viverra mi. Sed pretium felis purus. Nunc id dignissim lorem, et bibendum augue. Aenean euismod mauris a nunc interdum feugiat. Donec tristique turpis mollis varius iaculis. Quisque a est lobortis, semper magna sed, ultricies elit. Quisque eu erat tempor, iaculis urna nec, bibendum sem. Duis consequat, nulla sed feugiat pellentesque, lorem arcu varius massa, ac sagittis velit nunc et augue. Aliquam vitae semper sem, ut aliquam enim. Duis vel tincidunt lacus. Maecenas lobortis ultrices posuere. Aliquam ac purus et neque posuere lobortis vitae in neque.",
+        "um": "Pz",
+        "price": 6,
+        "isNew": true,
+        "isLoved": false
+    },
+    {
+        "id": 5,
+        "name": "Chianti",
+        "brand": "Società 3",
+        "type": "Vino rosso",
+        "category": "Vino",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id felis scelerisque, aliquet est vel, viverra mi. Sed pretium felis purus. Nunc id dignissim lorem, et bibendum augue. Aenean euismod mauris a nunc interdum feugiat. Donec tristique turpis mollis varius iaculis. Quisque a est lobortis, semper magna sed, ultricies elit. Quisque eu erat tempor, iaculis urna nec, bibendum sem. Duis consequat, nulla sed feugiat pellentesque, lorem arcu varius massa, ac sagittis velit nunc et augue. Aliquam vitae semper sem, ut aliquam enim. Duis vel tincidunt lacus. Maecenas lobortis ultrices posuere. Aliquam ac purus et neque posuere lobortis vitae in neque.",
+        "um": "Pz",
+        "price": 12,
+        "isNew": true,
+        "isLoved": true
+    },
+    {
+        "id": 6,
+        "name": "Barolo",
+        "brand": "Società 3",
+        "type": "Vino rosso",
+        "category": "Vino",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id felis scelerisque, aliquet est vel, viverra mi. Sed pretium felis purus. Nunc id dignissim lorem, et bibendum augue. Aenean euismod mauris a nunc interdum feugiat. Donec tristique turpis mollis varius iaculis. Quisque a est lobortis, semper magna sed, ultricies elit. Quisque eu erat tempor, iaculis urna nec, bibendum sem. Duis consequat, nulla sed feugiat pellentesque, lorem arcu varius massa, ac sagittis velit nunc et augue. Aliquam vitae semper sem, ut aliquam enim. Duis vel tincidunt lacus. Maecenas lobortis ultrices posuere. Aliquam ac purus et neque posuere lobortis vitae in neque.",
+        "um": "Pz",
+        "price": 36,
+        "isNew": true,
+        "isLoved": true
+    },
+    {
+        "id": 7,
+        "name": "Ribolla Gialla",
+        "brand": "Società 4",
+        "type": "Vino bianco",
+        "category": "Vino",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id felis scelerisque, aliquet est vel, viverra mi. Sed pretium felis purus. Nunc id dignissim lorem, et bibendum augue. Aenean euismod mauris a nunc interdum feugiat. Donec tristique turpis mollis varius iaculis. Quisque a est lobortis, semper magna sed, ultricies elit. Quisque eu erat tempor, iaculis urna nec, bibendum sem. Duis consequat, nulla sed feugiat pellentesque, lorem arcu varius massa, ac sagittis velit nunc et augue. Aliquam vitae semper sem, ut aliquam enim. Duis vel tincidunt lacus. Maecenas lobortis ultrices posuere. Aliquam ac purus et neque posuere lobortis vitae in neque.",
+        "um": "Pz",
+        "price": 21,
+        "isNew": true,
+        "isLoved": false
+    },
+    {
+        "id": 8,
+        "name": "San Stè",
+        "brand": "Caseificio Val D'aveto",
+        "type": "Formaggio stagionato",
+        "category": "Formaggi",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id felis scelerisque, aliquet est vel, viverra mi. Sed pretium felis purus. Nunc id dignissim lorem, et bibendum augue. Aenean euismod mauris a nunc interdum feugiat. Donec tristique turpis mollis varius iaculis. Quisque a est lobortis, semper magna sed, ultricies elit. Quisque eu erat tempor, iaculis urna nec, bibendum sem. Duis consequat, nulla sed feugiat pellentesque, lorem arcu varius massa, ac sagittis velit nunc et augue. Aliquam vitae semper sem, ut aliquam enim. Duis vel tincidunt lacus. Maecenas lobortis ultrices posuere. Aliquam ac purus et neque posuere lobortis vitae in neque.",
+        "um": "Pz",
+        "price": 11,
+        "region": "Liguria",
+        "isNew": true,
+        "isLoved": true
+    }
+]
